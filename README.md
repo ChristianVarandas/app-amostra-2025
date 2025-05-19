@@ -9,5 +9,5 @@
 ## Avaliação da dupla
 
 - Para não haver confusão na leitura: A avaliação de um integrante será escrita pelo outro, ou seja, onde estiver o nome de um, o outro integrante que escreveu.<br>
-`Nicolas`: Nicollas utilizou o figma para produzir o prótotipo, sempre me avisando sobre alterações e entrando em chamadas para que eu documentasse tudo. Mesmo com o curto tempo, fez um ótimo trabalho.<br>
+`Nicolas Lemes`: Nicollas utilizou o figma para produzir o prótotipo, sempre me avisando sobre alterações e entrando em chamadas para que eu documentasse tudo. Mesmo com o curto tempo, fez um ótimo trabalho.<br>
 `Christian Varandas`: 
