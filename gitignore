@@ -1,0 +1,56 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+
+# Android related
+android/.gradle/
+android/captures/
+android/.idea/
+android/local.properties
+
+# iOS/macOS related
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/Pods/
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/.symlinks/
+macos/Pods/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+
+# Web related
+web/.dart_tool/
+
+# Windows related
+windows/Flutter/ephemeral/
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+
+# Linux related
+linux/Flutter/ephemeral/
+linux/.flutter-plugins
+linux/.flutter-plugins-dependencies
+
+# IntelliJ related
+*.iml
+.idea/
+
+# VS Code related
+.vscode/
+
+# Other files
+*.log
+*.tmp
+*.swp
